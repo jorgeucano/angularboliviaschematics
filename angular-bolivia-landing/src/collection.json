@@ -1,0 +1,11 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "angular-bolivia-landing": {
+      "description": "Schematics for angular bolivia landing",
+      "factory": "./angular-bolivia-landing",
+      "aliases": ["abl"],
+      "schema": "./angular-bolivia-landing/schema.json"
+    }
+  }
+}

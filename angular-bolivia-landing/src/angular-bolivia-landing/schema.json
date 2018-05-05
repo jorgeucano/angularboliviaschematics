@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "id": "angular-bolivia-landing",
+  "title": "angular bolivia landing",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "default": "meetup mensual"
+    },
+    "path": {
+      "type": "string",
+      "default": "meetup-mensual"
+    },
+    "appRoot": {
+      "type": "string",
+      "default": "app"
+    },
+    "sourceDir": {
+      "type": "string",
+      "default": "src/app"
+    },
+    "service": {
+      "type": "boolean",
+      "default": false,
+      "description": "este es un flag para ver si agrego el servicio o no",
+      "alias": "abls"
+    }
+  }
+}

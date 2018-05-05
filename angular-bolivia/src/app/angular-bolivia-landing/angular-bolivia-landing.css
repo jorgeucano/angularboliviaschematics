@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+ul {
+  background: red;
+}
+li {
+  color: white;
+  background: black;
+  font-size: 40px;
+  padding: 10px;
+}

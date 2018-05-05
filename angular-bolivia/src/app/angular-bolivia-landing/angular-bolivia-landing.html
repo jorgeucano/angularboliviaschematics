@@ -1,0 +1,9 @@
+<h1>Angular Bolivia Meetup {{listado?.date}} en {{listado?.place}}</h1>
+<img src="https://secure.meetupstatic.com/photos/event/b/8/3/d/600_463307165.jpeg" />
+
+<ul>
+    <li *ngFor="let speaker of listado?.speakers">{{speaker.name}} - {{speaker.title}}</li>
+</ul>
+
+
+powered by @jorgeucano
