@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "hello-angular-bolivia": {
+      "description": "A blank schematic.",
+      "factory": "./hello-angular-bolivia/index#helloAngularBolivia"
+    }
+  }
+}
