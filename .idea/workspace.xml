@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00861e9d-0024-41b3-b82b-6fe0e93cea2e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,6 +20,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="angular_schematics_angularbolivia" />
+  </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
     <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
@@ -23,42 +32,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="412">
-                <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.ts">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-bolivia-landing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="42" selection-start-column="38" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-bolivia-landing.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="18" lean-forward="true" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-bolivia-landing.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-bolivia-landing.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.d.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="collection.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/collection.json">
+      <file leaf-file-name="angular-bolivia-landing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="234">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -68,6 +100,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>2</find>
+      <find>SchematicContext</find>
+      <find>schematics</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,7 +115,22 @@
         <option value="$PROJECT_DIR$/schematic-angular-bolivia/src/collection.json" />
         <option value="$PROJECT_DIR$/hello-angular-bolivia/src/collection.json" />
         <option value="$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/package.json" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/tsconfig.json" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.json" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/collection.json" />
+        <option value="$PROJECT_DIR$/angular-bolivia/angular.json" />
+        <option value="$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.html" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.html" />
+        <option value="$PROJECT_DIR$/angular-bolivia/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/angular-bolivia/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.css" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.css" />
       </list>
     </option>
   </component>
@@ -92,10 +141,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/angular-bolivia-landing/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular-bolivia/node_modules" />
     <handled-path value="$PROJECT_DIR$/hello-angular-bolivia/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/angular-bolivia-landing/package.json" />
+      <path value="$PROJECT_DIR$/angular-bolivia/package.json" />
       <path value="$PROJECT_DIR$/hello-angular-bolivia/package.json" />
     </packageJsonPaths>
   </component>
@@ -121,20 +174,28 @@
             <path>
               <item name="angular_schematics_angularbolivia" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular_schematics_angularbolivia" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-angular-bolivia" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-bolivia-landing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular_schematics_angularbolivia" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular_schematics_angularbolivia" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-angular-bolivia" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-bolivia-landing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular_schematics_angularbolivia" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular_schematics_angularbolivia" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-angular-bolivia" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-bolivia-landing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-angular-bolivia" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-bolivia-landing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular_schematics_angularbolivia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular_schematics_angularbolivia" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-bolivia-landing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="angular-bolivia-landing" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +210,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/hello-angular-bolivia/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/angular-bolivia/node_modules/typescript/lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,29 +234,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525487155914</updated>
-      <workItem from="1525487157214" duration="2006000" />
+      <workItem from="1525487157214" duration="6854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2006000" />
+    <option name="totallyTimeSpent" value="6854000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49924585" visible="true" weight="0.24986821" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962587" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32962587" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32962587" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.48129424" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" sideWeight="0.5007542" side_tool="true" weight="0.24986821" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -214,6 +284,15 @@
         <option value="$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.d.ts" />
         <option value="$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index_spec.d.ts" />
         <option value="$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.js.map" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index.js.map" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index.js" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.js.map" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index_spec.js" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index_spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.js" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index.d.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index_spec.d.ts" />
+        <option value="$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.d.ts" />
       </list>
     </option>
   </component>
@@ -222,7 +301,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -331,6 +410,19 @@
     <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index_spec.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/collection.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -338,26 +430,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/node_modules/@angular-devkit/schematics/src/rules/template.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-angular-bolivia/src/hello-angular-bolivia/index.ts">
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index_spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#90#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/schema.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-955" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="412">
-            <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+          <first_editor relative-caret-position="342">
+            <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia/src/app/angular-bolivia-landing/angular-bolivia-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="18" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-bolivia-landing/src/angular-bolivia-landing/files/angular-bolivia-landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
